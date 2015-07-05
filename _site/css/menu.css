@@ -16,8 +16,13 @@
 	list-style-type: none;
 }
 
+#menu h2 {
+	color: black;
+	font-family: "Helvetica";
+}
 #menu a {
 	color: #8A0829;
+	font-family: "Helvetica Neue";
 	text-decoration: none;
 }
 
