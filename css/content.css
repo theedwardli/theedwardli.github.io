@@ -8,3 +8,11 @@
 	position: relative;
 	top: 50%;
 }
+
+.content h1 {
+	font-family: "Helvetica";
+}
+
+.content p {
+	font-family: "Helvetica Neue";
+}
