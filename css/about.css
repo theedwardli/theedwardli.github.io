@@ -1,0 +1,12 @@
+#about a {
+	color: olive;
+}
+
+#about-link {
+	pointer-events: none;
+}
+
+#about-link a {
+	color: black;
+}
+

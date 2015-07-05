@@ -1,6 +1,8 @@
 	h1 {
 		font-family: "Helvetica";
 		text-decoration: none;
+		text-align: center;
+		color: black;
 	}
 
 	li {
@@ -14,6 +16,11 @@
 		color: #8A0829;
 		text-decoration: none;
 		text-align: center;
+	}
+
+	a:hover {
+		text-decoration: underline;
+		color: black;
 	}
 
 	hr {

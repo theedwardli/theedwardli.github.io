@@ -1,0 +1,7 @@
+#projects-link {
+	pointer-events: none;
+}
+
+#projects-link a {
+	color: black;
+}

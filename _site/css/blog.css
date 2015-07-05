@@ -1,0 +1,7 @@
+#blog-link {
+	pointer-events: none;
+}
+
+#blog-link a {
+	color: black;
+}
