@@ -13,6 +13,7 @@ stylesheet: true
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/background.css">
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/content.css">
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/about.css">
@@ -21,13 +22,15 @@ stylesheet: true
 	<body>
 		<div id="about" class="content">
 			<h1>about</h1>
-				<p>
-					My name is Edward Li and I'm a student at Brown University. I'm a CS major whose interests lie primiarly in public policy and politics. This site serves as my personal blog and as a gateway to projects that I've worked on. Feel free to check out my <a href="https://medium.com/@edwardli">articles</a> or <a href="mailto:Edward_Li@brown.edu">get in touch</a>.
-				</p>
+			<p>
+				My name is Edward Li and I'm a student at Brown University. I'm a CS major whose interests lie primiarly in public policy and politics. This site serves as my personal blog and as a gateway to projects that I've worked on. Feel free to check out my <a href="https://medium.com/@edwardli" target="_blank">articles</a> or <a href="mailto:Edward_Li@brown.edu">get in touch</a>.
+			</p>
 			<h1>notice</h1> 
-				<p>
-					This site is currently in beta. Please let me know if there's anything that isn't quite working the way that it should!
-				</p>
+			<p>
+				This site is currently in beta. Please let me know if there's anything that isn't quite working the way that it should!
+			</p>
+			<br>
+			{% include footer.html %}
 		</div>
 	</body>
 </html>

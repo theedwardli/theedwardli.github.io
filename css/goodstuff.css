@@ -1,3 +1,8 @@
+#goodstuff a {
+	color: olive;
+	text-decoration: none;
+}
+
 #goodstuff-link {
 	pointer-events: none;
 }

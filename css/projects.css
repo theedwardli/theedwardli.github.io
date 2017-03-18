@@ -1,7 +1,17 @@
+#projects a {
+	color: olive;
+	text-decoration: none;
+}
+
 #projects-link {
 	pointer-events: none;
 }
 
 #projects-link a {
 	color: black;
+}
+
+#projects span {
+	display: table;
+	margin: 0 auto;
 }

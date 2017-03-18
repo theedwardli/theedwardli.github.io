@@ -1,5 +1,7 @@
 #about a {
+	font-size: 1em;
 	color: olive;
+	text-decoration: none;
 }
 
 #about-link {
@@ -10,3 +12,7 @@
 	color: black;
 }
 
+#about span {
+	display: table;
+	margin: 0 auto;
+}
